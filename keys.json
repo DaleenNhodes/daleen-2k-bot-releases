@@ -1,3 +1,12 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "hash": "635984f8810e3a56e2eb5d1b0d8c7247350a351c0d36e3d0b23884e8152efc23",
+      "label": "Bbc",
+      "created": "2026-03-20",
+      "expires": "2026-03-27",
+      "days": 7,
+      "activated": false
+    }
+  ]
 }
