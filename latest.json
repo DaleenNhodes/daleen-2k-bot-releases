@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/DaleenNhodes/daleen-2k-bot-releases/releases/download/v1.4.0/Daleen.2K.BOT.Setup.1.4.0.exe",
-  "notes": "Remote key validation, auto-sync keygen",
-  "sha256": "b61381f1a9aac63a6c36a17653891bb96b8d755fc93d9cf29f089f58d21af9d3"
+  "version": "1.5.0",
+  "url": "https://github.com/DaleenNhodes/daleen-2k-bot-releases/releases/download/v1.5.0/Daleen.2K.BOT.Setup.1.5.0.exe",
+  "notes": "Multi-game support, instant launch, security fixes",
+  "sha256": "c5cbdcd794b7b921eadcfae75f5a768364ab9eb79dc38733e673df437cd353a1"
 }
