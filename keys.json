@@ -1,3 +1,12 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "hash": "5f21ab70e6baa026f6f242c9d20fb706c188f5d49b31e852892247fe0a9b9f2c",
+      "username": null,
+      "created": "2026-03-23",
+      "expires": "2028-02-21",
+      "days": 700,
+      "activated": false
+    }
+  ]
 }
