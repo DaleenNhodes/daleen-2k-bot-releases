@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "url": "https://github.com/DaleenNhodes/daleen-2k-bot-releases/releases/download/v1.5.0/Daleen.2K.BOT.Setup.1.5.0.exe",
-  "notes": "Multi-game support, instant launch, security fixes",
-  "sha256": "0962e9660b4bebde340de2f3332d6a3c02bd8ee1e6c46613d8836c5227757c9b"
+  "version": "1.6.0",
+  "url": "https://github.com/DaleenNhodes/daleen-2k-bot-releases/releases/download/v1.6.0/Daleen.2K.BOT.Setup.1.6.0.exe",
+  "notes": "Security hardening, UI redesign, Park Bot merge",
+  "sha256": "54956d1c0d0262967f7a53399185bd8eec9b2ff87dd25ce18345bc6a457e5fa8"
 }
