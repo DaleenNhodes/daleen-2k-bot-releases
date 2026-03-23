@@ -1,6 +1,6 @@
 {
   "version": "1.6.1",
   "url": "https://github.com/DaleenNhodes/daleen-2k-bot-releases/releases/download/v1.6.1/Daleen.2K.BOT.Setup.1.6.1.exe",
-  "sha256": "ab539f01d52b47de439783c137ae5d595d8e0650b2ffb6548260a026450cbe98",
+  "sha256": "687c45b1931cc93c3530407a2a82fa5b5c9c2b94a7378e7acfe33de4acd2f023",
   "notes": "v1.6.1 — Auto-dismiss inactivity dialogs, smarter auto-launch retry, full security audit"
 }
