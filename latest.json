@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "url": "https://github.com/DaleenNhodes/daleen-2k-bot-releases/releases/download/v1.6.1/Daleen.2K.BOT.Setup.1.6.1.exe",
-  "sha256": "687c45b1931cc93c3530407a2a82fa5b5c9c2b94a7378e7acfe33de4acd2f023",
-  "notes": "v1.6.1 — Auto-dismiss inactivity dialogs, smarter auto-launch retry, full security audit"
+  "version": "2.1.0",
+  "url": "https://github.com/DaleenNhodes/daleen-2k-bot-releases/releases/download/v2.1.0/Daleen.2K.BOT.Setup.2.1.0.exe",
+  "notes": "Settings panel, boost queue, per-customer macros",
+  "sha256": "4C551760C4DA8301E598C47C43ACED72666078B0DCC5BA9058D61A0E57439AD1"
 }
