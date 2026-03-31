@@ -1,6 +1,6 @@
 {
-  "version": "2.1.0",
-  "url": "https://github.com/DaleenNhodes/daleen-2k-bot-releases/releases/download/v2.1.0/Daleen.2K.BOT.Setup.2.1.0.exe",
-  "notes": "Settings panel, boost queue, per-customer macros",
-  "sha256": "23950C505F254188C49534009D6345549BFFE53AC4F4C62F2B5F5A9CF0114169"
+  "version": "2.3.0",
+  "url": "https://github.com/DaleenNhodes/daleen-2k-bot-releases/releases/download/v2.3.0/Daleen.2K.BOT.Setup.2.3.0.exe",
+  "notes": "Bot Groups, walk/return macros, Park Bot L2 defense, security hardening, full cleanup",
+  "sha256": "397E7A227BADD3F5F6E2E644D8E870920D3F2B0BC3FE8A9A103A03794A747EDC"
 }
