@@ -4,18 +4,20 @@
 
 Run up to 9 simultaneous bots — each with its own Xbox account, isolated session, and live ping monitor. Set it and forget it.
 
----
-
 ## Features
 
 - **Multi-Bot Sessions** — Launch 1–9 bots at once, each running in its own isolated xCloud stream
 - **Instant Game Launch** — Bots auto-navigate straight into NBA 2K26 or 2K25, no manual clicking
-- **Park Bot** — Figure-8 anti-AFK movement + auto Got Next so your bots stay active 24/7
+- **Bot Groups** — Organize bots into groups with independent controls per group
+- **Walk Macro** — Record controller input to walk bots to the court and get on the Got Next spot automatically
+- **Return Macro** — Second recording for walking back to the same spot after a loss
+- **Park Bot** — L2 defense stance, left-right strafe, and automatic passing to keep bots active in-game
 - **Auto-Dismiss Inactivity** — Automatically handles "Are you still playing?" prompts
 - **Live Ping Monitor** — Color-coded latency per bot (green/yellow/red)
-- **Tile Grid Layout** — Minimize, fullscreen, or close individual bots on the fly
+- **Auto-Fit Grid** — Add or remove bots and the grid resizes cleanly
 - **Auto-Updates** — App checks for new versions and updates silently in the background
 - **Hardware Accelerated** — GPU-decoded video streaming for smooth gameplay on any modern GPU
+- **Security Hardened** — Encrypted license keys, machine-bound activation, server-side validation
 
 ## Supported Games
 
@@ -30,17 +32,3 @@ Run up to 9 simultaneous bots — each with its own Xbox account, isolated sessi
 - Internet connection
 - Xbox Game Pass Ultimate subscription (per account)
 - Valid Daleen 2K BOT license key
-
-## Installation
-
-1. Download the latest installer from [Releases](https://github.com/DaleenNhodes/daleen-2k-bot-releases/releases/latest)
-2. Run the installer — it handles everything automatically
-3. Launch the app, enter your license key, and start botting
-
-## Getting a License
-
-DM for pricing and key activation.
-
----
-
-*Built for the 2K community.*
